@@ -1,6 +1,8 @@
 Role Name: AWX
 =========
 
+[![Build Status](https://travis-ci.com/hemanth22/ansible-role-awx.svg?branch=master)](https://travis-ci.com/hemanth22/ansible-role-awx)
+
 This ansible role will install awx in the aws ec2 using centos7 images.
 
 Requirements
