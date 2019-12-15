@@ -2,7 +2,7 @@
 galaxy_info:
   role_name: awx
   author: hemanth22
-  description: This awx role creates ec2 instance.
+  description: This role creates awx in ec2 instance.
   license: GPLv3
   min_ansible_version: 2.9
   platforms:
